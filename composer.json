@@ -1,14 +1,8 @@
-"repositories": [
-    {
-        "type": "package",
-        "package": {
-            "name": "shilpathomas1990/test",                
-            "autoload": {
-                "psr-0" : {
-                    "classes" : "myfiles"
-                }
-            }
+{
+    "name": "shilpathomas1990/test",
+    "autoload": {
+        "psr-0" : {
+            "classes" : "myfiles"
         }
     }
-],
-
+}
